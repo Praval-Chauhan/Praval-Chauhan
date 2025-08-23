@@ -138,19 +138,19 @@
   <!-- ✅ GitHub Stats Section -->
   <section class="section">
     <h2>📈 GitHub Stats</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=HArTan9124&theme=radical&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=HArTan9124&theme=radical&hide_border=false" alt="GitHub Streak"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HArTan9124&theme=radical&layout=compact&hide_border=false" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Praval-Chauhan&theme=radical&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Praval-Chauhan&theme=radical&hide_border=false" alt="GitHub Streak"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praval-Chauhan&theme=radical&layout=compact&hide_border=false" alt="Top Languages"/>
   </section>
 
   <section class="section">
     <h2>🏆 GitHub Trophies</h2>
-    <img src="https://github-profile-trophy.vercel.app/?username=HArTan9124&theme=radical&margin-w=4" alt="GitHub Trophies"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Praval-Chauhan&theme=radical&margin-w=4" alt="GitHub Trophies"/>
   </section>
 
   <section class="section">
     <h2>🔝 Top Repositories</h2>
-    <img src="https://github-contributor-stats.vercel.app/api?username=HArTan9124&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repositories"/>
+    <img src="https://github-contributor-stats.vercel.app/api?username=Praval-Chauhan&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Repositories"/>
   </section>
 
 </body>
