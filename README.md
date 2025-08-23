@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <meta name="description" content="Harshit Tandon - Android Developer, CSE Student, Hackathon Winner. Portfolio showcasing mobile & web development skills, tools, and achievements."/>
+  <meta name="description" content="Praval Chauhan - Web Developer, CSE Student, Hackathon Winner. Portfolio showcasing mobile & web development skills, tools, and achievements."/>
  
 
 <body>
@@ -15,15 +15,15 @@
 
   <header>
     <h1>👨‍💻Praval Pratap Singh Chauhan</h1>
-    <p>Android & Wear OS Developer | ☕ Java & Algorithms Enthusiast | 💻 C/C++ | 🧩 DSA Practitioner | 🥇 IIT Bombay Techfest First Prize Winner | 🏆 MIT Jaipur First Prize Winner | 🎓 Academic Achiever 2024-2025</p>
+    <p>Web Developer | ☕ c++ & Algorithms Enthusiast | 💻 Java/Python | 🧩 DSA Practitioner | 🏆 MIT Jaipur First Prize Winner </p>
   </header>
 
   <section class="section">
-    <h2>🚀 About Me</h2>
-    <p>
-      I’m <strong>Harshit Tandon</strong>, a passionate Android developer and engineering student building responsive apps using <strong>Kotlin</strong>, <strong>Java</strong>, and <strong>Flutter</strong>.
-      I also explore <strong>full-stack development</strong> and <strong>AI integrations</strong> to solve real-world challenges.
-    </p>
+  <h2>🚀 About Me</h2>
+  <p>
+    I’m <strong>Praval Chauhan</strong>, a passionate Web Developer crafting responsive websites using frameworks like <strong>React</strong>. 
+    I also focus on merging web experiences with <strong>AI integrations</strong> to build innovative and real-world solutions.
+  </p>
     <ul>
       <li>📱 Android & cross-platform enthusiast</li>
       <li>🧠 Solid DSA foundation in C++</li>
