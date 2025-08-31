@@ -10,7 +10,7 @@
 
   <!-- ✅ Banner Section -->
   <div class="banner">
-    <img src="1732447558687.jpeg" alt="Harshit Tandon Banner">
+    <img src="1732447558687.jpeg" alt="Praval Chauhan Banner">
   </div>
 
   <header>
@@ -25,7 +25,7 @@
     I also focus on merging web experiences with <strong>AI integrations</strong> to build innovative and real-world solutions.
   </p>
     <ul>
-      <li>📱 Android & cross-platform enthusiast</li>
+      <li>📱 Web & Ai enthusiast</li>
       <li>🧠 Solid DSA foundation in C++</li>
       <li>📜 Certified in Blockchain & Microsoft Tools</li>
       <li>🧑‍🏫 Former First-Year Coordinator at CU</li>
@@ -36,7 +36,6 @@
   <section class="section">
     <h2>🏅 Notable Achievements</h2>
     <ul>
-      <li><strong>🥇 1st Rank – IIT Bombay Techfest:</strong> Recognized for innovative problem-solving</li>
       <li><strong>🏆 Winner – MIT Jaipur International Expo:</strong> Represented CU with an AI project</li>
       <li><strong>🎯 Finalist – Project Expo:</strong> Android + AI solutions for real-world problems</li>
       <li><strong>🎓 Academic Achiever (2024–2025):</strong> Technical contributor at CU</li>
@@ -46,10 +45,10 @@
   <section class="section">
     <h2>🌐 Connect With Me</h2>
     <div class="social-icons">
-      <a href="https://linkedin.com/in/hartan9124/" target="_blank">
+      <a href="https://www.linkedin.com/in/ppsc18/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
-      <a href="https://instagram.com/tandon._.2895" target="_blank">
+      <a href="https://www.instagram.com/pravalchauhan18/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
       </a>
       <a href="https://facebook.com/Harshit%20Tandon" target="_blank">
