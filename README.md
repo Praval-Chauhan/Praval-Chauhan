@@ -50,10 +50,6 @@
       </a>
       <a href="https://www.instagram.com/pravalchauhan18/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
-      </a>
-      <a href="https://facebook.com/Harshit%20Tandon" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook"/>
-      </a>
     </div>
   </section>
 
